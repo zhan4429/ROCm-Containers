@@ -1,0 +1,9 @@
+cp2k
+deepspeed
+gromacs
+namd
+openmm
+pytorch
+specfem3d
+specfem3d_globe
+tensorflow
